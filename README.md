@@ -1,14 +1,14 @@
 # Hi, I'm Sneha Jha
 
-Full-stack developer focused on building impactful and intelligent systems.
+I build tech that solves real problems and actually helps people.
 
-I enjoy solving real-world problems through scalable tech, combining clean UI with strong backend logic.
+Full-stack developer passionate about creating meaningful, user-centric applications — blending clean UI, strong backend systems, and intelligent features.
 
 ---
 
 ## Tech Stack
 
-**Languages:** C, C++, Python, Java  
+**Languages:** C, C++, Python, Java, JavaScript
 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, MySQL  
@@ -16,33 +16,31 @@ I enjoy solving real-world problems through scalable tech, combining clean UI wi
 
 ---
 
-## Projects
+## Currently Growing In
 
-### ELARIA
-AI-powered emotional wellness platform with personalized comfort spaces, journaling, mood tracking, and an empathetic AI companion.
+- Full-stack development (frontend + backend + system design)  
+- Building intuitive and user-friendly UI/UX  
+- Writing scalable and efficient backend systems  
+- Strengthening problem-solving and DSA  
 
-### Research Scholar Monitoring System
-Full-stack system with ML-based delay prediction and SHAP explanations for tracking academic progress.
+---
 
-### LinkedIn Scam Detonator
-ML-powered web app + Chrome extension for detecting scam profiles, texts, and malicious URLs.
+## Interests
+
+- Problem solving & competitive coding  
+- Building impactful real-world projects  
+- Collaboration & team-based development  
+- Instrumental keyboard & music
 
 ---
 
 ## Achievements
 
-- Finalist @ CodeClash 2.0 (Top 20 / 2000+)
-- Best Presentation Winner @ Elite Hack 1.0
-- Winner @ Cipher Quest 2025 (NSUT)
-- Built project @ IIT Roorkee Cognizance Hackathon
-- Solved 500+ DSA problems
-
----
-
-## Currently Working On
-
-- Improving DSA & problem solving  
-- Building scalable MERN applications  
+- Finalist @ CodeClash 2.0 (Top 20 / 2000+)  
+- Best Presentation Winner @ Elite Hack 1.0  
+- Winner @ Cipher Quest 2025 (NSUT)  
+- Built at IIT Roorkee Cognizance Hackathon  
+- Solved 500+ DSA problems  
 
 ---
 
