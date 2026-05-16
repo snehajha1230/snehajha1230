@@ -38,6 +38,8 @@ Full-stack developer passionate about creating meaningful, user-centric applicat
 
 - Finalist @ CodeClash 2.0 (Top 20 / 2000+)  
 - Best Presentation Winner @ Elite Hack 1.0  
+- Finalist Code1 
+- Finalist BuildX India Hackathon
 - Winner @ Cipher Quest 2025 (NSUT)  
 - Built at IIT Roorkee Cognizance Hackathon  
 - Solved 500+ DSA problems  
