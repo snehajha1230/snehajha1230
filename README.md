@@ -42,7 +42,7 @@ Full-stack developer passionate about creating meaningful, user-centric applicat
 - Finalist BuildX India Hackathon
 - Winner @ Cipher Quest 2025 (NSUT)  
 - Built at IIT Roorkee Cognizance Hackathon  
-- Solved 500+ DSA problems  
+- Solved 400+ DSA problems  
 
 ---
 
