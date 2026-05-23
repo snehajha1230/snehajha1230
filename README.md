@@ -6,7 +6,7 @@ Full-stack developer passionate about creating meaningful, user-centric applicat
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 **Languages:** C, C++, Python, Java, JavaScript, TypeScript                   
 **Frontend:** Next.js, HTML, CSS, JavaScript, React, Tailwind CSS  
