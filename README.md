@@ -1,5 +1,9 @@
 # Hi, I'm Sneha Jha
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehajha1230&show_icons=true&theme=tokyonight)
+
+
+
 I build tech that solves real problems and actually helps people.
 
 Full-stack developer passionate about creating meaningful, user-centric applications — blending clean UI, strong backend systems, and intelligent features.
